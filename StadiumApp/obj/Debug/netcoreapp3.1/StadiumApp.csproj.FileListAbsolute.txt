@@ -1,0 +1,5 @@
+C:\Users\user\Downloads\PortableGit\BP202\Prog\StadiumApp\StadiumApp\obj\Debug\netcoreapp3.1\StadiumApp.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\PortableGit\BP202\Prog\StadiumApp\StadiumApp\obj\Debug\netcoreapp3.1\StadiumApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\PortableGit\BP202\Prog\StadiumApp\StadiumApp\obj\Debug\netcoreapp3.1\StadiumApp.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\PortableGit\BP202\Prog\StadiumApp\StadiumApp\obj\Debug\netcoreapp3.1\StadiumApp.AssemblyInfo.cs
+C:\Users\user\Downloads\PortableGit\BP202\Prog\StadiumApp\StadiumApp\obj\Debug\netcoreapp3.1\StadiumApp.csproj.CoreCompileInputs.cache
